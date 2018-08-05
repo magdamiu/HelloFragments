@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/6348f11146cf1b10e8822ca35a5e77cb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/57af00eaea8d7b0af4a9d4fd42041e47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/4de725a8cee2f9f612150769d7bd39b3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/f670ac56acaaa6a88b22dcc79a6088d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f96274e8894b44d3ab8ecad80348c334/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/f10fe73f4efa1fc26425cf31f23a2928/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/6799888c51e1d082b2988ac17ea6f025/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/129205241125a8deecbdf23610ced4a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/3dc1238dead2149e6793b7ae05a0bc75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/504753f57a48abc3ad099902d3bf20f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/ca30524b43060618337884c0650a094e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/73042578b8598c92f4e62724b10c6459/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/7124f227e81b8fbeb4fb9386e61de01f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/f30db76b557744fb62470dcb7d07fee6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/515c70510358d3fda03951f1019df37b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/d62141331c4590b6bff377dab2402640/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/5562f4b3dbd03337ded329e5756cbf7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/cc10d5f03f5f088ffdb8caaf803c73ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c104de16aca3763045d521f9c657b4ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/83bed7a20f651366257c9a176d3398b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/ba6b7be97f3009a0ace163f1dd3d70a1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/842e45f93eb80b9cba9ece36e61e1a7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/e18ac23f91211f78a245b0434567636b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d7593dcfbc2d03de93ac7327d81412/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c4d877ae7dec4a6854a505caaa46e84f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/fe4b0da7d49e0f948f15649b408c0df0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/e71d07e00196c5b240d55cc0b9d9f1e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/5a3aa64ec37bc1a4d9f96134cda25045/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/faa7f8d7f30db881251f6af53fb340d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/89e3310d72dca76604512a1107e5d138/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f35a2930f042520ac73420a2c66e3e8f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4579ca473ed988e548a3f13bb44bc86b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/6348f11146cf1b10e8822ca35a5e77cb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/6348f11146cf1b10e8822ca35a5e77cb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/4de725a8cee2f9f612150769d7bd39b3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/4de725a8cee2f9f612150769d7bd39b3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/ba6b7be97f3009a0ace163f1dd3d70a1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/ba6b7be97f3009a0ace163f1dd3d70a1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c4d877ae7dec4a6854a505caaa46e84f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c4d877ae7dec4a6854a505caaa46e84f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/ba6b7be97f3009a0ace163f1dd3d70a1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.magdamiu.hellofragments.main.MainActivity
+ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:12:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/6348f11146cf1b10e8822ca35a5e77cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/6348f11146cf1b10e8822ca35a5e77cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/57af00eaea8d7b0af4a9d4fd42041e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/57af00eaea8d7b0af4a9d4fd42041e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/4de725a8cee2f9f612150769d7bd39b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/4de725a8cee2f9f612150769d7bd39b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/f670ac56acaaa6a88b22dcc79a6088d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/f670ac56acaaa6a88b22dcc79a6088d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f96274e8894b44d3ab8ecad80348c334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f96274e8894b44d3ab8ecad80348c334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/f10fe73f4efa1fc26425cf31f23a2928/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/f10fe73f4efa1fc26425cf31f23a2928/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/6799888c51e1d082b2988ac17ea6f025/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/6799888c51e1d082b2988ac17ea6f025/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/129205241125a8deecbdf23610ced4a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/129205241125a8deecbdf23610ced4a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/3dc1238dead2149e6793b7ae05a0bc75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/3dc1238dead2149e6793b7ae05a0bc75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/504753f57a48abc3ad099902d3bf20f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/504753f57a48abc3ad099902d3bf20f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/ca30524b43060618337884c0650a094e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/ca30524b43060618337884c0650a094e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/73042578b8598c92f4e62724b10c6459/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/73042578b8598c92f4e62724b10c6459/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/7124f227e81b8fbeb4fb9386e61de01f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/7124f227e81b8fbeb4fb9386e61de01f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/f30db76b557744fb62470dcb7d07fee6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/f30db76b557744fb62470dcb7d07fee6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/515c70510358d3fda03951f1019df37b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/515c70510358d3fda03951f1019df37b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/d62141331c4590b6bff377dab2402640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/d62141331c4590b6bff377dab2402640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/5562f4b3dbd03337ded329e5756cbf7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/5562f4b3dbd03337ded329e5756cbf7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/cc10d5f03f5f088ffdb8caaf803c73ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/cc10d5f03f5f088ffdb8caaf803c73ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c104de16aca3763045d521f9c657b4ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c104de16aca3763045d521f9c657b4ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/83bed7a20f651366257c9a176d3398b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/83bed7a20f651366257c9a176d3398b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/ba6b7be97f3009a0ace163f1dd3d70a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/ba6b7be97f3009a0ace163f1dd3d70a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/842e45f93eb80b9cba9ece36e61e1a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/842e45f93eb80b9cba9ece36e61e1a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/e18ac23f91211f78a245b0434567636b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/e18ac23f91211f78a245b0434567636b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d7593dcfbc2d03de93ac7327d81412/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d7593dcfbc2d03de93ac7327d81412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c4d877ae7dec4a6854a505caaa46e84f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c4d877ae7dec4a6854a505caaa46e84f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/fe4b0da7d49e0f948f15649b408c0df0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/fe4b0da7d49e0f948f15649b408c0df0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/e71d07e00196c5b240d55cc0b9d9f1e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/e71d07e00196c5b240d55cc0b9d9f1e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/5a3aa64ec37bc1a4d9f96134cda25045/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/5a3aa64ec37bc1a4d9f96134cda25045/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/faa7f8d7f30db881251f6af53fb340d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/faa7f8d7f30db881251f6af53fb340d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/89e3310d72dca76604512a1107e5d138/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/89e3310d72dca76604512a1107e5d138/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f35a2930f042520ac73420a2c66e3e8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f35a2930f042520ac73420a2c66e3e8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4579ca473ed988e548a3f13bb44bc86b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/magdamiu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4579ca473ed988e548a3f13bb44bc86b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+		ADDED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/magdamiu/Documents/Android/HelloFragments/app/src/main/AndroidManifest.xml

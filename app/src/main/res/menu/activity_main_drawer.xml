@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_nav_home"
+            android:checked="true"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/title_menu_nav_home" />
+        <item
+            android:id="@+id/menu_nav_users"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/title_menu_nav_users" />
+        <item
+            android:id="@+id/menu_nav_companies"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/title_menu_nav_companies" />
+        <item
+            android:id="@+id/menu_nav_departments"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/title_menu_nav_departments" />
+        <item
+            android:id="@+id/menu_nav_logout"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/title_menu_nav_logout" />
+    </group>
+
+</menu>

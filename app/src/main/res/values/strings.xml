@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hello Fragments</string>
+    <string name="title_menu_nav_home">Home</string>
+    <string name="title_menu_nav_users">Users</string>
+    <string name="title_menu_nav_companies">Companies</string>
+    <string name="title_menu_nav_departments">Departments</string>
+    <string name="title_menu_nav_logout">Logout</string>
+    <string name="title_menu_nav_company_details">Company Details</string>
+    <string name="title_menu_nav_company_location">Company Location</string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name="hello_users_fragment">Hello users fragment</string>
+    <string name="hello_companies_fragment">Hello companies fragment</string>
+    <string name="hello_departments_fragment">Hello departments fragment</string>
+    <string name="hello_home_fragment">Hello home fragment</string>
+    <string name="hello_company_details_fragment">Hello company details fragment</string>
+    <string name="hello_company_location_fragment">Hello company location fragment</string>
+
+    <string name="btn_details">Details</string>
+    <string name="btn_details_location">Location</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_header_height">20dip</dimen>
+    <dimen name="activity_horizontal_margin">16dip</dimen>
+    <dimen name="activity_vertical_margin">16dip</dimen>
+    <dimen name="nav_profile_image_height_width">32dip</dimen>
+    <dimen name="btn_width">100dip</dimen>
+    <dimen name="btn_height">45dip</dimen>
+</resources>
